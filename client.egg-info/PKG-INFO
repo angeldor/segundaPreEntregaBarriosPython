@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: client
+Version: 1.0
+Summary: Un paquete para modelar clientes en una página de compras.
+Author: Angel Barrios
+Author-email: ab0180333@gmail.com
+Requires-Python: >=3.8
